@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Amanda — a human who writes code, drinks too much coffee ☕,  
+and occasionally stares at the screen hoping bugs fix themselves 🐛✨.
 <!--
 **amandasenaratne/amandasenaratne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
