@@ -1,1 +1,1 @@
-Hi, I'm Amanda 👋, a software engineer passionate about turning challenges into practical, usable solutions.
+Hi, I'm Amanda 👋, a software engineer who loves building scalable, user-centered applications.
